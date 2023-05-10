@@ -1,0 +1,13 @@
+body {
+    /* Definir a cor do texto usando a cor primária (accent) */
+    color: env(-opera-gx-accent-color);
+
+    /* Definir a cor de fundo usando a cor secundária (background) */
+    background: env(-opera-gx-background-color);
+
+    /* Adicionar outros estilos personalizados */
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+}
